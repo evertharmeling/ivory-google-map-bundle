@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 7.0.0 (xxx)
+
+ * updated to support `ivory/google-map:7.0`, full PSR-17 and PSR-18 compatibility
+
 ### 3.0.4 (2020-06-13)
 
  * updated documentation
