@@ -2,7 +2,8 @@
 
 ### 7.0.0 (xxx)
 
- * updated to support `ivory/google-map:7.0`, full PSR-17 and PSR-18 compatibility
+ * Updated to support `ivory/google-map:7.0`, full PSR-17 and PSR-18 compatibility
+ * Drop support for Symfony 7.0, 7.1, 7.2
 
 ### 3.0.4 (2020-06-13)
 
