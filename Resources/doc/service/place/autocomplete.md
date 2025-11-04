@@ -33,7 +33,7 @@ Configure the Google Map bundle:
 ivory_google_map:
     place_autocomplete:
         client: psr18.http_client
-        message_factory: nyholm.psr7.psr17_factory
+        request_factory: nyholm.psr7.psr17_factory
 ```
 
 ### Format
